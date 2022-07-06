@@ -12,20 +12,13 @@
 
 **Databases**
 
-<img src="https://cdn.worldvectorlogo.com/logos/aws-redshift-logo.svg" alt="Redshift" width="30" height="30"/>
-<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="30" height="30"/>
-<img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL" width="30" height="30"/>
-<img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" alt="BigQuery" width="30" height="30"/>
+<img src="https://cdn.worldvectorlogo.com/logos/aws-redshift-logo.svg" alt="Redshift" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" alt="BigQuery" width="30" height="30"/>
 
 
 
 **BI & Visualization Tools**
 
-<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="30" height="30"/>
-<img src="https://cdn.worldvectorlogo.com/logos/amazon-quicksight.svg" alt="Amazon Quicksight" width="30" height="30"/>
-<img src="https://cdn.worldvectorlogo.com/logos/google-data-studio.svg" alt="Google DataStudio" width="30" height="30"/>
-<img src="https://cdn.worldvectorlogo.com/logos/metabase.svg" alt="Metabase" width="30" height="30"/>
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg" alt="Tableau" width="30" height="30"/>
+<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/amazon-quicksight.svg" alt="Amazon Quicksight" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/google-data-studio.svg" alt="Google DataStudio" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/metabase.svg" alt="Metabase" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg" alt="Tableau" width="30" height="30"/>
 
 **Analysis**
 
@@ -46,14 +39,14 @@
 
 <br/>
 
-<a href="https://github.com/caio-sanches">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caio-sanches&theme=dracula&show_icons=true" />
+<a href="https://github.com/felipermagalhaes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipermagalhaes&theme=dracula&show_icons=true" />
 </a>
 
 <br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin: SEU NOME](https://img.shields.io/badge/-felipermagalhaes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-magalhaes-736968161/)](https://www.linkedin.com/in/felipe-magalhaes-736968161/)
+[![Gmail Badge](https://img.shields.io/badge/-felipe.r.magalhaes@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.r.magalhaes@gmail.com)](mailto:felipe.r.magalhaes@gmail.com)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/felipermagalhaes)
