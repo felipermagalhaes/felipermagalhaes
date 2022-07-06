@@ -32,10 +32,7 @@
 
 **Developing**
 
-<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code" width="30" height="30"/>
-<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="30" height="30"/>
-<img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="GitHub" width="30" height="30"/>
-<img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello" width="30" height="30"/>
+<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="GitHub" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello" width="30" height="30"/>
 
 <br/>
 
@@ -45,7 +42,7 @@
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Where find me: </h3> 
 
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-felipermagalhaes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-magalhaes-736968161/)](https://www.linkedin.com/in/felipe-magalhaes-736968161/)
 [![Gmail Badge](https://img.shields.io/badge/-felipe.r.magalhaes@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.r.magalhaes@gmail.com)](mailto:felipe.r.magalhaes@gmail.com)
